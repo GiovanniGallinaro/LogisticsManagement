@@ -1,0 +1,331 @@
+GIORNO 1:
+001LuVE13
+002LuBO02
+003LuBO09
+005LuVE06
+006LuVR10
+007LuMI09
+008LuMI11
+009LuBO04
+010LuVE05
+011LuBO02
+012LuBO03
+
+GIORNO 2:
+013MaVR10
+014MaMI03
+015MaBO11
+016MaVR09
+017MaMI05
+018MaVE06
+019MaVR02
+020MaMI03
+021MaBO01
+022MaVR14
+023MaVE04
+024MaVR16
+025MaMI06
+
+GIORNO 3:
+026MeMI06
+027MeBO04
+028MeVR12
+029MeVR05
+030MeVR16
+031MeVR04
+
+GIORNO 4:
+032GiMI23
+033GiBO41
+034GiVR32
+035GiVR39
+
+GIORNO 5:
+036VeMI06
+037VeVR04
+038VeMI03
+039VeBO01
+040VeVR02
+041VeMI05
+
+GIORNO 6:
+042SaMI06
+043SaVR04
+044SaMI03
+045SaBO01
+046SaVR02
+047SaBO04
+048SaBO06
+
+GIORNO 7:
+049DoVR04
+050DoMI03
+051DoBO01
+052DoVR02
+053DoMI05
+054DoVE05
+055DoVR14
+056DoVR04
+057DoVE06
+
+*************GIORNO 1*************
+
+CAMION 1: 24 bancali trasportati e 11 ore e 3 min ore di viaggio. Orario rientro: 18:20
+Ore di viaggio con i bancali pieni: 1 ore e 25 min
+Ore di viaggio Autista1: 5 ore e 31 min. Ore di viaggio Autista2: 5 ore e 31 min
+
+001LuVE06	Orario partenza: 04:00. Orario arrivo: 04:25
+003LuBO06	Orario partenza: 05:30. Orario arrivo: 06:30
+006LuVR04	Orario partenza: 08:10. Orario arrivo: 08:58
+008LuMI05	Orario partenza: 10:26. Orario arrivo: 12:43
+012LuBO03	Orario partenza: 15:40. Orario arrivo: 16:40
+
+CAMION 2: 19 bancali trasportati e 9 ore e 27 min ore di viaggio. Orario rientro: 16:04
+Ore di viaggio con i bancali pieni: 2 ore e 43 min
+Ore di viaggio Autista1: 4 ore e 43 min. Ore di viaggio Autista2: 4 ore e 43 min
+
+001LuVE06	Orario partenza: 04:00. Orario arrivo: 04:25
+003LuBO03	Orario partenza: 05:30. Orario arrivo: 06:30
+007LuMI06	Orario partenza: 08:10. Orario arrivo: 10:27
+009LuBO04	Orario partenza: 13:24. Orario arrivo: 14:24
+
+CAMION 3: 15 bancali trasportati e 7 ore e 10 min ore di viaggio. Orario rientro: 13:44
+Ore di viaggio con i bancali pieni: 0 ore e 25 min
+Ore di viaggio Autista1: 3 ore e 35 min. Ore di viaggio Autista2: 3 ore e 35 min
+
+001LuVE01	Orario partenza: 04:00. Orario arrivo: 04:25
+005LuVE06	Orario partenza: 05:30. Orario arrivo: 05:55
+007LuMI03	Orario partenza: 07:00. Orario arrivo: 09:17
+010LuVE05	Orario partenza: 12:14. Orario arrivo: 12:39
+
+CAMION 4: 16 bancali trasportati e 10 ore e 11 min ore di viaggio. Orario rientro: 16:50
+Ore di viaggio con i bancali pieni: 3 ore e 5 min
+Ore di viaggio Autista1: 5 ore e 5 min. Ore di viaggio Autista2: 5 ore e 5 min
+
+002LuBO02	Orario partenza: 04:00. Orario arrivo: 05:00
+006LuVR06	Orario partenza: 06:40. Orario arrivo: 07:28
+008LuMI06	Orario partenza: 08:56. Orario arrivo: 11:13
+011LuBO02	Orario partenza: 14:10. Orario arrivo: 15:10
+
+Numero di ordini evasi oggi: 11
+
+*************GIORNO 2*************
+
+CAMION 1: 29 bancali trasportati e 7 ore e 39 min ore di viaggio. Orario rientro: 14:58
+Ore di viaggio con i bancali pieni: 2 ore e 49 min
+Ore di viaggio Autista1: 3 ore e 49 min. Ore di viaggio Autista2: 3 ore e 49 min
+
+013MaVR06	Orario partenza: 04:00. Orario arrivo: 04:48
+015MaBO05	Orario partenza: 06:16. Orario arrivo: 07:16
+018MaVE06	Orario partenza: 08:56. Orario arrivo: 09:21
+022MaVR06	Orario partenza: 10:26. Orario arrivo: 11:14
+024MaVR06	Orario partenza: 12:42. Orario arrivo: 13:30
+
+CAMION 2: 24 bancali trasportati e 8 ore e 0 min ore di viaggio. Orario rientro: 15:20
+Ore di viaggio con i bancali pieni: 2 ore e 24 min
+Ore di viaggio Autista1: 4 ore e 0 min. Ore di viaggio Autista2: 4 ore e 0 min
+
+013MaVR04	Orario partenza: 04:00. Orario arrivo: 04:48
+016MaVR06	Orario partenza: 06:16. Orario arrivo: 07:04
+019MaVR02	Orario partenza: 08:32. Orario arrivo: 09:20
+022MaVR06	Orario partenza: 10:48. Orario arrivo: 11:36
+024MaVR06	Orario partenza: 13:04. Orario arrivo: 13:52
+
+CAMION 3: 15 bancali trasportati e 14 ore e 0 min ore di viaggio. Orario rientro: 21:16
+Ore di viaggio con i bancali pieni: 0 ore e 0 min
+Ore di viaggio Autista1: 7 ore e 0 min. Ore di viaggio Autista2: 7 ore e 0 min
+
+014MaMI03	Orario partenza: 04:00. Orario arrivo: 06:17
+016MaVR03	Orario partenza: 09:14. Orario arrivo: 10:02
+020MaMI03	Orario partenza: 11:30. Orario arrivo: 13:47
+022MaVR02	Orario partenza: 16:44. Orario arrivo: 17:32
+024MaVR04	Orario partenza: 19:00. Orario arrivo: 19:48
+
+CAMION 4: 22 bancali trasportati e 14 ore e 3 min ore di viaggio. Orario rientro: 21:18
+Ore di viaggio con i bancali pieni: 3 ore e 17 min
+Ore di viaggio Autista1: 7 ore e 1 min. Ore di viaggio Autista2: 7 ore e 1 min
+
+015MaBO06	Orario partenza: 04:00. Orario arrivo: 05:00
+017MaMI05	Orario partenza: 06:40. Orario arrivo: 08:57
+021MaBO01	Orario partenza: 11:54. Orario arrivo: 12:54
+023MaVE04	Orario partenza: 14:34. Orario arrivo: 14:59
+025MaMI06	Orario partenza: 16:04. Orario arrivo: 18:21
+
+Numero di ordini evasi oggi: 13
+
+*************GIORNO 3*************
+
+CAMION 1: 15 bancali trasportati e 7 ore e 47 min ore di viaggio. Orario rientro: 13:46
+Ore di viaggio con i bancali pieni: 2 ore e 17 min
+Ore di viaggio Autista1: 3 ore e 53 min. Ore di viaggio Autista2: 3 ore e 53 min
+
+026MeMI06	Orario partenza: 04:00. Orario arrivo: 06:17
+029MeVR05	Orario partenza: 09:14. Orario arrivo: 10:02
+031MeVR04	Orario partenza: 11:30. Orario arrivo: 12:18
+
+CAMION 2: 10 bancali trasportati e 3 ore e 35 min ore di viaggio. Orario rientro: 08:56
+Ore di viaggio con i bancali pieni: 0 ore e 48 min
+Ore di viaggio Autista1: 1 ore e 47 min. Ore di viaggio Autista2: 1 ore e 47 min
+
+027MeBO04	Orario partenza: 04:00. Orario arrivo: 05:00
+030MeVR06	Orario partenza: 06:40. Orario arrivo: 07:28
+
+CAMION 3: 12 bancali trasportati e 3 ore e 12 min ore di viaggio. Orario rientro: 08:32
+Ore di viaggio con i bancali pieni: 1 ore e 36 min
+Ore di viaggio Autista1: 1 ore e 36 min. Ore di viaggio Autista2: 1 ore e 36 min
+
+028MeVR06	Orario partenza: 04:00. Orario arrivo: 04:48
+030MeVR06	Orario partenza: 06:16. Orario arrivo: 07:04
+
+CAMION 4: 10 bancali trasportati e 3 ore e 12 min ore di viaggio. Orario rientro: 08:32
+Ore di viaggio con i bancali pieni: 0 ore e 48 min
+Ore di viaggio Autista1: 1 ore e 36 min. Ore di viaggio Autista2: 1 ore e 36 min
+
+028MeVR06	Orario partenza: 04:00. Orario arrivo: 04:48
+030MeVR04	Orario partenza: 06:16. Orario arrivo: 07:04
+
+Numero di ordini evasi oggi: 6
+
+*************GIORNO 4*************
+
+CAMION 1: 32 bancali trasportati e 13 ore e 24 min ore di viaggio. Orario rientro: 21:22
+Ore di viaggio con i bancali pieni: 5 ore e 54 min
+Ore di viaggio Autista1: 6 ore e 42 min. Ore di viaggio Autista2: 6 ore e 42 min
+
+032GiMI06	Orario partenza: 04:00. Orario arrivo: 06:17
+033GiBO06	Orario partenza: 09:14. Orario arrivo: 10:14
+033GiBO06	Orario partenza: 11:54. Orario arrivo: 12:54
+034GiVR06	Orario partenza: 14:34. Orario arrivo: 15:22
+034GiVR02	Orario partenza: 16:50. Orario arrivo: 17:38
+035GiVR06	Orario partenza: 19:06. Orario arrivo: 19:54
+
+CAMION 2: 36 bancali trasportati e 13 ore e 24 min ore di viaggio. Orario rientro: 21:22
+Ore di viaggio con i bancali pieni: 6 ore e 42 min
+Ore di viaggio Autista1: 6 ore e 42 min. Ore di viaggio Autista2: 6 ore e 42 min
+
+032GiMI06	Orario partenza: 04:00. Orario arrivo: 06:17
+033GiBO06	Orario partenza: 09:14. Orario arrivo: 10:14
+033GiBO06	Orario partenza: 11:54. Orario arrivo: 12:54
+034GiVR06	Orario partenza: 14:34. Orario arrivo: 15:22
+035GiVR06	Orario partenza: 16:50. Orario arrivo: 17:38
+035GiVR06	Orario partenza: 19:06. Orario arrivo: 19:54
+
+CAMION 3: 35 bancali trasportati e 13 ore e 24 min ore di viaggio. Orario rientro: 21:22
+Ore di viaggio con i bancali pieni: 5 ore e 42 min
+Ore di viaggio Autista1: 6 ore e 42 min. Ore di viaggio Autista2: 6 ore e 42 min
+
+032GiMI06	Orario partenza: 04:00. Orario arrivo: 06:17
+033GiBO06	Orario partenza: 09:14. Orario arrivo: 10:14
+033GiBO05	Orario partenza: 11:54. Orario arrivo: 12:54
+034GiVR06	Orario partenza: 14:34. Orario arrivo: 15:22
+035GiVR06	Orario partenza: 16:50. Orario arrivo: 17:38
+035GiVR06	Orario partenza: 19:06. Orario arrivo: 19:54
+
+CAMION 4: 32 bancali trasportati e 13 ore e 0 min ore di viaggio. Orario rientro: 20:58
+Ore di viaggio con i bancali pieni: 3 ore e 23 min
+Ore di viaggio Autista1: 6 ore e 30 min. Ore di viaggio Autista2: 6 ore e 30 min
+
+032GiMI05	Orario partenza: 04:00. Orario arrivo: 06:17
+033GiBO06	Orario partenza: 09:14. Orario arrivo: 10:14
+034GiVR06	Orario partenza: 11:54. Orario arrivo: 12:42
+034GiVR06	Orario partenza: 14:10. Orario arrivo: 14:58
+035GiVR06	Orario partenza: 16:26. Orario arrivo: 17:14
+035GiVR03	Orario partenza: 18:42. Orario arrivo: 19:30
+
+Numero di ordini evasi oggi: 4
+
+*************GIORNO 5*************
+
+CAMION 1: 8 bancali trasportati e 6 ore e 11 min ore di viaggio. Orario rientro: 11:30
+Ore di viaggio con i bancali pieni: 2 ore e 17 min
+Ore di viaggio Autista1: 3 ore e 5 min. Ore di viaggio Autista2: 3 ore e 5 min
+
+036VeMI06	Orario partenza: 04:00. Orario arrivo: 06:17
+040VeVR02	Orario partenza: 09:14. Orario arrivo: 10:02
+
+CAMION 2: 9 bancali trasportati e 6 ore e 11 min ore di viaggio. Orario rientro: 11:30
+Ore di viaggio con i bancali pieni: 0 ore e 0 min
+Ore di viaggio Autista1: 3 ore e 5 min. Ore di viaggio Autista2: 3 ore e 5 min
+
+037VeVR04	Orario partenza: 04:00. Orario arrivo: 04:48
+041VeMI05	Orario partenza: 06:16. Orario arrivo: 08:33
+
+CAMION 3: 3 bancali trasportati e 4 ore e 35 min ore di viaggio. Orario rientro: 09:14
+Ore di viaggio con i bancali pieni: 0 ore e 0 min
+Ore di viaggio Autista1: 2 ore e 17 min. Ore di viaggio Autista2: 2 ore e 17 min
+
+038VeMI03	Orario partenza: 04:00. Orario arrivo: 06:17
+
+CAMION 4: 1 bancali trasportati e 2 ore e 0 min ore di viaggio. Orario rientro: 06:40
+Ore di viaggio con i bancali pieni: 0 ore e 0 min
+Ore di viaggio Autista1: 1 ore e 0 min. Ore di viaggio Autista2: 1 ore e 0 min
+
+039VeBO01	Orario partenza: 04:00. Orario arrivo: 05:00
+
+Numero di ordini evasi oggi: 6
+
+*************GIORNO 6*************
+
+CAMION 1: 8 bancali trasportati e 6 ore e 11 min ore di viaggio. Orario rientro: 11:30
+Ore di viaggio con i bancali pieni: 2 ore e 17 min
+Ore di viaggio Autista1: 3 ore e 5 min. Ore di viaggio Autista2: 3 ore e 5 min
+
+042SaMI06	Orario partenza: 04:00. Orario arrivo: 06:17
+046SaVR02	Orario partenza: 09:14. Orario arrivo: 10:02
+
+CAMION 2: 8 bancali trasportati e 3 ore e 35 min ore di viaggio. Orario rientro: 08:56
+Ore di viaggio con i bancali pieni: 0 ore e 0 min
+Ore di viaggio Autista1: 1 ore e 47 min. Ore di viaggio Autista2: 1 ore e 47 min
+
+043SaVR04	Orario partenza: 04:00. Orario arrivo: 04:48
+047SaBO04	Orario partenza: 06:16. Orario arrivo: 07:16
+
+CAMION 3: 9 bancali trasportati e 6 ore e 35 min ore di viaggio. Orario rientro: 11:54
+Ore di viaggio con i bancali pieni: 1 ore e 0 min
+Ore di viaggio Autista1: 3 ore e 17 min. Ore di viaggio Autista2: 3 ore e 17 min
+
+044SaMI03	Orario partenza: 04:00. Orario arrivo: 06:17
+048SaBO06	Orario partenza: 09:14. Orario arrivo: 10:14
+
+CAMION 4: 1 bancali trasportati e 2 ore e 0 min ore di viaggio. Orario rientro: 06:40
+Ore di viaggio con i bancali pieni: 0 ore e 0 min
+Ore di viaggio Autista1: 1 ore e 0 min. Ore di viaggio Autista2: 1 ore e 0 min
+
+045SaBO01	Orario partenza: 04:00. Orario arrivo: 05:00
+
+Numero di ordini evasi oggi: 7
+
+*************GIORNO 7*************
+
+CAMION 1: 11 bancali trasportati e 7 ore e 47 min ore di viaggio. Orario rientro: 13:46
+Ore di viaggio con i bancali pieni: 0 ore e 0 min
+Ore di viaggio Autista1: 3 ore e 53 min. Ore di viaggio Autista2: 3 ore e 53 min
+
+049DoVR04	Orario partenza: 04:00. Orario arrivo: 04:48
+053DoMI05	Orario partenza: 06:16. Orario arrivo: 08:33
+055DoVR02	Orario partenza: 11:30. Orario arrivo: 12:18
+
+CAMION 2: 12 bancali trasportati e 7 ore e 3 min ore di viaggio. Orario rientro: 13:00
+Ore di viaggio con i bancali pieni: 0 ore e 0 min
+Ore di viaggio Autista1: 3 ore e 31 min. Ore di viaggio Autista2: 3 ore e 31 min
+
+050DoMI03	Orario partenza: 04:00. Orario arrivo: 06:17
+054DoVE05	Orario partenza: 09:14. Orario arrivo: 09:39
+056DoVR04	Orario partenza: 10:44. Orario arrivo: 11:32
+
+CAMION 3: 13 bancali trasportati e 4 ore e 27 min ore di viaggio. Orario rientro: 10:26
+Ore di viaggio con i bancali pieni: 1 ore e 13 min
+Ore di viaggio Autista1: 2 ore e 13 min. Ore di viaggio Autista2: 2 ore e 13 min
+
+051DoBO01	Orario partenza: 04:00. Orario arrivo: 05:00
+055DoVR06	Orario partenza: 06:40. Orario arrivo: 07:28
+057DoVE06	Orario partenza: 08:56. Orario arrivo: 09:21
+
+CAMION 4: 8 bancali trasportati e 3 ore e 12 min ore di viaggio. Orario rientro: 08:32
+Ore di viaggio con i bancali pieni: 0 ore e 48 min
+Ore di viaggio Autista1: 1 ore e 36 min. Ore di viaggio Autista2: 1 ore e 36 min
+
+052DoVR02	Orario partenza: 04:00. Orario arrivo: 04:48
+055DoVR06	Orario partenza: 06:16. Orario arrivo: 07:04
+
+Numero di ordini evasi oggi: 9
